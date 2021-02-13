@@ -2,7 +2,7 @@ Read Me
 
 This Spotify Popularity prediction analysis was done in Python using Jupyter Notebooks. 3 linear regression models were used: linear regression, KNN regressors, and Support Vector Machines. 
 
-The data set is included but continuously updated on kaggle.com. It includes acousticness, artists, danceability, 'duration_ms', and more.
+The data set is below, but not the actual file because it is too large. The data is continuously updated on kaggle.com. It includes columns for acousticness, artists, danceability, 'duration_ms', and more.
 
 Kaggle.com Link (exceeds file size limit for github)
 https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
