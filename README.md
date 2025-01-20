@@ -3,6 +3,7 @@ Spotify Popularity Prediction Analysis
 This project involves predicting the popularity of songs on Spotify using Python and Jupyter Notebooks. The analysis utilizes three different regression models: Linear Regression, K-Nearest Neighbors (KNN) Regressors, and Support Vector Machines (SVM).
 
 Models Used
+
 Linear Regression: A straightforward approach that models the relationship between a dependent variable and one or more independent variables by fitting a linear equation.
 K-Nearest Neighbors (KNN) Regressors: A non-parametric method that predicts the value of a target variable based on the average of its k-nearest neighbors in the feature space.
 Support Vector Machines (SVM): A powerful and flexible method that performs regression by finding the hyperplane that best fits the data, capable of handling both linear and non-linear relationships.
